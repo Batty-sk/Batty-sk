@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurav kumar 
-- 👀 I’m interested in creating inserting applications 
+- 👀 I love to create intersting appications.
 - 🌱 I’m currently learning AI 
 - 📫 Saorav.skumar@gmail.com
 
