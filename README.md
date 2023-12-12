@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Saurav kumar 
-- 👀 I love to create intersting appications
+- 👋 Hello brothers , im just an another self-taught programmer who Enjoy Playing with code.
 - 📫 Saorav.skumar@gmail.com
 - ❄️ Always Finishes In Style
 - 👉 https://holopin.io/@battysk
