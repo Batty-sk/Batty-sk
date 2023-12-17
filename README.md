@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://github.com/batty-sk/batty-sk/raw/main/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Batty-sk/Batty-sk/raw/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
