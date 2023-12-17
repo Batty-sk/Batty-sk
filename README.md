@@ -1,6 +1,7 @@
 <h1 align="left">Namaste   🙏, Im Saurav Kumar</h1>
 
 ###
+<img align="right" height="200" src="https://media.giphy.com/media/he43oHTj5D008/giphy.gif"  />
 
 <p align="left">Hello! 👋 I'm a full-stack developer, and my goal is more than just coding. I'm here to create solutions that tackle the actual challenges we face every day.<br><br>🤜 I really enjoy keeping up with the newest stuff. Learning isn't just a task for me; it's like going on a daily adventure.<br><br>❤️I loves to teaming up with folks who share the passion for learning and growing.</p>
 
@@ -8,11 +9,10 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.giphy.com/media/he43oHTj5D008/giphy.gif"  />
 
 ###
 
-<img align="left" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
