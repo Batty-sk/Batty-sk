@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img align="left" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
@@ -78,10 +78,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ahtz4jianxolfyioi3mdjtdesu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahtz4jianxolfyioi3mdjtdesu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
