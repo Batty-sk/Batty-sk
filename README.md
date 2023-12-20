@@ -12,12 +12,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
-</picture>
-
+![Snake animation](https://github.com/Batty-sk/Batty-sk/blob/output/github-contribution-grid-snake.svg) 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
