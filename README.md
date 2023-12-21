@@ -3,7 +3,7 @@
 ###
 <img align="right" height="200" src="https://media.giphy.com/media/he43oHTj5D008/giphy.gif"  />
 
-<p align="left">Hello! 👋 I'm a full-stack developer, and my goal is more than just coding. I'm here to create solutions that tackle the actual challenges we face every day.<br><br>🤜 I really enjoy keeping up with the newest stuff. Learning isn't just a task for me; it's like going on a daily adventure.<br><br>❤️I loves to teaming up with folks who share the passion for learning and growing.</p>
+<p align="left">👋 I'm a self-taught cool programmer. <br><br>🤜 I really enjoy keeping up with the newest stuff.<br><br>❤️I loves to teaming up with folks who share the passion for learning and growing.</p>
 
 ###
 
