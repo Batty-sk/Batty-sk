@@ -3,7 +3,7 @@
 ###
 <img align="right" height="200" src="https://media.giphy.com/media/he43oHTj5D008/giphy.gif"  />
 
-<p align="left">👋 I'm a self-taught cool programmer. <br><br>🤜 I really enjoy keeping up with the newest stuff.<br><br>❤️I loves to teaming up with folks who share the passion for learning and growing.</p>
+<p align="left">👋 I'm a self-taught programmer. <br><br>🤜 I really enjoy keeping up with the newest stuff.<br><br>❤️I loves to teaming up with folks who share the passion for learning and growing.</p>
 
 ###
 
